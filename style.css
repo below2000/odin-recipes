@@ -1,0 +1,15 @@
+body
+{
+    text-align: center;
+    font-weight: bold;
+}
+
+.heading {
+    font-size: 80px;
+}
+
+.subh {
+    background-color: aqua;
+    color: black;
+    font-size: 25px;
+}
